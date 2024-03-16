@@ -3,6 +3,7 @@ Faiz Aslam Basalamah
 all to well
 Ni lokeswari Sasmita Puri
 But something about it felt like home somehow
+And I know it's long gone and that magic's not here no more
 Rafidah Jasmine Lukman
 We're singing in the car, getting lost upstate
 Revanda Octavian
@@ -11,7 +12,15 @@ Sofwan Abdul Fatah
 test
 <<<<<<< HEAD
 
+<<<<<<< HEAD
+kulit manggis kini ada ekstraknya
+=======
+puasa ga pada?
+=======
+<<<<<<< HEAD
+
 Halo gais kalian lagi ngapain?
+>>>>>>> 3b0449fe1562d4f761c364e41a1e1da2249b3104
 =======
 <<<<<<< HEAD
 woeee
@@ -19,3 +28,7 @@ woeee
 ajjsijsdois
 >>>>>>> a43d37f354ce0e9a9741368cc8c813b8bed0ff87
 >>>>>>> b5de956d3d4c811a6a1cd3a5f09eb7a3ddcb88f2
+<<<<<<< HEAD
+=======
+>>>>>>> 843555a125434db0edf2d0f020ed437b4299ce4b
+>>>>>>> 3b0449fe1562d4f761c364e41a1e1da2249b3104

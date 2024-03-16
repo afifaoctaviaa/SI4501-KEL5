@@ -9,5 +9,13 @@ Revanda Octavian
 ppp
 Sofwan Abdul Fatah
 test
+<<<<<<< HEAD
 
 kulit manggis kini ada ekstraknya
+=======
+<<<<<<< HEAD
+woeee
+=======
+ajjsijsdois
+>>>>>>> a43d37f354ce0e9a9741368cc8c813b8bed0ff87
+>>>>>>> b5de956d3d4c811a6a1cd3a5f09eb7a3ddcb88f2

@@ -9,5 +9,18 @@ Revanda Octavian
 ppp
 Sofwan Abdul Fatah
 test
+<<<<<<< HEAD
 
 puasa ga pada?
+=======
+<<<<<<< HEAD
+
+Halo gais kalian lagi ngapain?
+=======
+<<<<<<< HEAD
+woeee
+=======
+ajjsijsdois
+>>>>>>> a43d37f354ce0e9a9741368cc8c813b8bed0ff87
+>>>>>>> b5de956d3d4c811a6a1cd3a5f09eb7a3ddcb88f2
+>>>>>>> 843555a125434db0edf2d0f020ed437b4299ce4b

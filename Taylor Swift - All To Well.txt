@@ -9,4 +9,8 @@ Revanda Octavian
 ppp
 Sofwan Abdul Fatah
 test
+<<<<<<< HEAD
 woeee
+=======
+ajjsijsdois
+>>>>>>> a43d37f354ce0e9a9741368cc8c813b8bed0ff87

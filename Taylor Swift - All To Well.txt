@@ -10,3 +10,25 @@ Revanda Octavian
 ppp
 Sofwan Abdul Fatah
 test
+<<<<<<< HEAD
+
+<<<<<<< HEAD
+kulit manggis kini ada ekstraknya
+=======
+puasa ga pada?
+=======
+<<<<<<< HEAD
+
+Halo gais kalian lagi ngapain?
+>>>>>>> 3b0449fe1562d4f761c364e41a1e1da2249b3104
+=======
+<<<<<<< HEAD
+woeee
+=======
+ajjsijsdois
+>>>>>>> a43d37f354ce0e9a9741368cc8c813b8bed0ff87
+>>>>>>> b5de956d3d4c811a6a1cd3a5f09eb7a3ddcb88f2
+<<<<<<< HEAD
+=======
+>>>>>>> 843555a125434db0edf2d0f020ed437b4299ce4b
+>>>>>>> 3b0449fe1562d4f761c364e41a1e1da2249b3104
